@@ -29,5 +29,6 @@ cmake --build .
 
 ![DotCode cpp](http://www.codepool.biz/wp-content/uploads/2020/05/dotcode-cplusplus.png)
 
-
+## Blog
+[How to Make DotCode Webcam Scanner in C++ on Windows 10](https://www.codepool.biz/dotcode-webcam-scanner-cplusplus-windows.html)
 
